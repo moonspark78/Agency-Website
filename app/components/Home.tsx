@@ -7,6 +7,8 @@ import SupportTeam from './SupportTeam/SupportTeam'
 import Company from './Company/Company'
 
 const Home = () => {
+
+  
   return (
     <div>
       <Hero/>
